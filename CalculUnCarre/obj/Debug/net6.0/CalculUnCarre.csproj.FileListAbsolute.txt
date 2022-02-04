@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\obj\Debug\net6.0\CalculUnCarre.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\obj\Debug\net6.0\CalculUnCarre.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\obj\Debug\net6.0\CalculUnCarre.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\obj\Debug\net6.0\CalculUnCarre.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\obj\Debug\net6.0\CalculUnCarre.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\bin\Debug\net6.0\CalculUnCarre.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\bin\Debug\net6.0\CalculUnCarre.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\bin\Debug\net6.0\CalculUnCarre.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\bin\Debug\net6.0\CalculUnCarre.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\bin\Debug\net6.0\ref\CalculUnCarre.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\bin\Debug\net6.0\CalculUnCarre.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\obj\Debug\net6.0\CalculUnCarre.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\obj\Debug\net6.0\ref\CalculUnCarre.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\obj\Debug\net6.0\CalculUnCarre.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\CalculUnCarre\obj\Debug\net6.0\CalculUnCarre.genruntimeconfig.cache

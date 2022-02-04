@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\obj\Debug\net6.0\NombreDivisible.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\obj\Debug\net6.0\NombreDivisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\obj\Debug\net6.0\NombreDivisible.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\obj\Debug\net6.0\NombreDivisible.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\obj\Debug\net6.0\NombreDivisible.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\bin\Debug\net6.0\NombreDivisible.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\bin\Debug\net6.0\NombreDivisible.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\bin\Debug\net6.0\NombreDivisible.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\bin\Debug\net6.0\NombreDivisible.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\bin\Debug\net6.0\ref\NombreDivisible.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\bin\Debug\net6.0\NombreDivisible.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\obj\Debug\net6.0\NombreDivisible.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\obj\Debug\net6.0\ref\NombreDivisible.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\obj\Debug\net6.0\NombreDivisible.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreDivisible\obj\Debug\net6.0\NombreDivisible.genruntimeconfig.cache

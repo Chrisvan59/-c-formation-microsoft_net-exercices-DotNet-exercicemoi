@@ -1,0 +1,10 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.csproj.AssemblyReference.cache
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.csproj.AssemblyReference.cache
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.AssemblyInfoInputs.cache
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.AssemblyInfo.cs
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\LaTable\obj\Debug\net6.0\LaTable.csproj.CoreCompileInputs.cache

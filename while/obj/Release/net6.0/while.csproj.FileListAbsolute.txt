@@ -1,0 +1,14 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\while\bin\Release\net6.0\while.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\while\bin\Release\net6.0\while.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\while\bin\Release\net6.0\while.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\while\bin\Release\net6.0\while.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\while\bin\Release\net6.0\ref\while.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\while\bin\Release\net6.0\while.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\while\obj\Release\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\while\obj\Release\net6.0\while.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\while\obj\Release\net6.0\while.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\while\obj\Release\net6.0\while.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\while\obj\Release\net6.0\while.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\while\obj\Release\net6.0\ref\while.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\while\obj\Release\net6.0\while.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\while\obj\Release\net6.0\while.genruntimeconfig.cache

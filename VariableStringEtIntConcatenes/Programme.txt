@@ -1,0 +1,8 @@
+﻿L'opération de génération a démarré...
+1>------ Début de la génération : Projet : VariableStringEtIntConcatenes, Configuration : Debug Any CPU ------
+1>C:\formation microsoft_net\exercices\DotNet\affichage\VariableStringEtIntConcatenes\VariableStringEtIntConcatenes\Program.cs(4,13,4,31): warning CS8600: Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.
+1>C:\formation microsoft_net\exercices\DotNet\affichage\VariableStringEtIntConcatenes\VariableStringEtIntConcatenes\Program.cs(6,17,6,35): warning CS8600: Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.
+1>C:\formation microsoft_net\exercices\DotNet\affichage\VariableStringEtIntConcatenes\VariableStringEtIntConcatenes\Program.cs(8,14,8,32): warning CS8600: Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.
+1>VariableStringEtIntConcatenes -> C:\formation microsoft_net\exercices\DotNet\affichage\VariableStringEtIntConcatenes\VariableStringEtIntConcatenes\bin\Debug\net6.0\VariableStringEtIntConcatenes.dll
+1>Génération du projet "VariableStringEtIntConcatenes.csproj" terminée.
+========== Génération : 1 a réussi, 0 a échoué, 0 à jour, 0 a été ignoré ==========

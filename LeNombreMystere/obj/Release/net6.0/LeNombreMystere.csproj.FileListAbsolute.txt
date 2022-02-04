@@ -1,0 +1,5 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\LeNombreMystere\obj\Release\net6.0\LeNombreMystere.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\LeNombreMystere\obj\Release\net6.0\LeNombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\LeNombreMystere\obj\Release\net6.0\LeNombreMystere.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\LeNombreMystere\obj\Release\net6.0\LeNombreMystere.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\LeNombreMystere\obj\Release\net6.0\LeNombreMystere.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\bin\Debug\net6.0\AccroismentDeLaPopulation.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\bin\Debug\net6.0\AccroismentDeLaPopulation.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\bin\Debug\net6.0\AccroismentDeLaPopulation.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\bin\Debug\net6.0\AccroismentDeLaPopulation.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\bin\Debug\net6.0\ref\AccroismentDeLaPopulation.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\bin\Debug\net6.0\AccroismentDeLaPopulation.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\obj\Debug\net6.0\AccroismentDeLaPopulation.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\obj\Debug\net6.0\AccroismentDeLaPopulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\obj\Debug\net6.0\AccroismentDeLaPopulation.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\obj\Debug\net6.0\AccroismentDeLaPopulation.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\obj\Debug\net6.0\AccroismentDeLaPopulation.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\obj\Debug\net6.0\AccroismentDeLaPopulation.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\obj\Debug\net6.0\ref\AccroismentDeLaPopulation.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\obj\Debug\net6.0\AccroismentDeLaPopulation.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\AccroismentDeLaPopulation\obj\Debug\net6.0\AccroismentDeLaPopulation.genruntimeconfig.cache

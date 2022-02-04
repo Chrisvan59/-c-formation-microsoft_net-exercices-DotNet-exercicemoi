@@ -1,0 +1,29 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\ref\NombreMystere2.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\ref\NombreMystere2.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.genruntimeconfig.cache
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.exe
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.deps.json
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.runtimeconfig.json
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.dll
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\ref\NombreMystere2.dll
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\bin\Debug\net6.0\NombreMystere2.pdb
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.csproj.AssemblyReference.cache
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.AssemblyInfoInputs.cache
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.AssemblyInfo.cs
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.csproj.CoreCompileInputs.cache
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.dll
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\ref\NombreMystere2.dll
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.pdb
+C:\formation Microsoft.net\formation microsoft_net\exercices\DotNet\affichage\NombreMystere2\obj\Debug\net6.0\NombreMystere2.genruntimeconfig.cache

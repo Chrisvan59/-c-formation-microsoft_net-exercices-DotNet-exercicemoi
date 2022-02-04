@@ -1,0 +1,14 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\obj\Release\net6.0\CompterJusqua10.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\obj\Release\net6.0\CompterJusqua10.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\obj\Release\net6.0\CompterJusqua10.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\obj\Release\net6.0\CompterJusqua10.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\bin\Release\net6.0\CompterJusqua10.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\bin\Release\net6.0\CompterJusqua10.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\bin\Release\net6.0\CompterJusqua10.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\bin\Release\net6.0\CompterJusqua10.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\bin\Release\net6.0\ref\CompterJusqua10.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\bin\Release\net6.0\CompterJusqua10.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\obj\Release\net6.0\CompterJusqua10.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\obj\Release\net6.0\ref\CompterJusqua10.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\obj\Release\net6.0\CompterJusqua10.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\CompterJusqua10\obj\Release\net6.0\CompterJusqua10.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\bin\Debug\net6.0\calculImpot.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\bin\Debug\net6.0\calculImpot.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\bin\Debug\net6.0\calculImpot.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\bin\Debug\net6.0\calculImpot.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\bin\Debug\net6.0\ref\calculImpot.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\bin\Debug\net6.0\calculImpot.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\obj\Debug\net6.0\calculImpot.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\obj\Debug\net6.0\calculImpot.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\obj\Debug\net6.0\calculImpot.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\obj\Debug\net6.0\calculImpot.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\obj\Debug\net6.0\calculImpot.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\obj\Debug\net6.0\calculImpot.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\obj\Debug\net6.0\ref\calculImpot.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\obj\Debug\net6.0\calculImpot.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\calculImpot\obj\Debug\net6.0\calculImpot.genruntimeconfig.cache

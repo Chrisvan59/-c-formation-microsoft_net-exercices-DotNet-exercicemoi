@@ -1,0 +1,14 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\obj\Release\net6.0\TableDeMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\obj\Release\net6.0\TableDeMultiplication.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\obj\Release\net6.0\TableDeMultiplication.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\obj\Release\net6.0\TableDeMultiplication.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\bin\Release\net6.0\TableDeMultiplication.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\bin\Release\net6.0\TableDeMultiplication.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\bin\Release\net6.0\TableDeMultiplication.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\bin\Release\net6.0\TableDeMultiplication.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\bin\Release\net6.0\ref\TableDeMultiplication.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\bin\Release\net6.0\TableDeMultiplication.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\obj\Release\net6.0\TableDeMultiplication.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\obj\Release\net6.0\ref\TableDeMultiplication.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\obj\Release\net6.0\TableDeMultiplication.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\TableDeMultiplication\obj\Release\net6.0\TableDeMultiplication.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\CategorieEnfant\obj\Release\net6.0\CategorieEnfant.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\CategorieEnfant\obj\Release\net6.0\CategorieEnfant.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\CategorieEnfant\obj\Release\net6.0\CategorieEnfant.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\CategorieEnfant\obj\Release\net6.0\CategorieEnfant.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\CategorieEnfant\obj\Release\net6.0\CategorieEnfant.csproj.CoreCompileInputs.cache

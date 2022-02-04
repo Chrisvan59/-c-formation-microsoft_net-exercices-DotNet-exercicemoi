@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f63c7b3-663f-4721-ac7b-6b09ee19c0b4": {
+      "ProjectGuid": "0f63c7b3-663f-4721-ac7b-6b09ee19c0b4",
+      "DisplayName": "affichage",
+      "ColorIndex": 0
+    },
+    "ad120457-2e5a-464f-b779-ec888afb7b41": {
+      "ProjectGuid": "ad120457-2e5a-464f-b779-ec888afb7b41",
+      "DisplayName": "variable string",
+      "ColorIndex": 1
+    },
+    "21e55cfd-67d8-4072-8fd3-d695634a8af2": {
+      "ProjectGuid": "21e55cfd-67d8-4072-8fd3-d695634a8af2",
+      "DisplayName": "CalculUnCarre",
+      "ColorIndex": 2
+    },
+    "05bb797b-2d27-44de-bc0f-496069d21cbe": {
+      "ProjectGuid": "05bb797b-2d27-44de-bc0f-496069d21cbe",
+      "DisplayName": "taxe",
+      "ColorIndex": 3
+    },
+    "5814dc8d-1e5f-4039-8d44-0d64bbebcb31": {
+      "ProjectGuid": "5814dc8d-1e5f-4039-8d44-0d64bbebcb31",
+      "DisplayName": "Hypoténuse",
+      "ColorIndex": 4
+    },
+    "cf2e03f9-4285-4364-b7a7-1cbaf8d83d8e": {
+      "ProjectGuid": "cf2e03f9-4285-4364-b7a7-1cbaf8d83d8e",
+      "DisplayName": "Consome",
+      "ColorIndex": 5
+    },
+    "8aea7e34-692a-419d-abd9-f80c8fb49a64": {
+      "ProjectGuid": "8aea7e34-692a-419d-abd9-f80c8fb49a64",
+      "DisplayName": "NombreDivisible",
+      "ColorIndex": 6
+    },
+    "737e38b5-4985-4ca9-85ee-fc3d97587a34": {
+      "ProjectGuid": "737e38b5-4985-4ca9-85ee-fc3d97587a34",
+      "DisplayName": "TailleDeVetement",
+      "ColorIndex": 7
+    },
+    "6fd54458-f93c-43be-84b0-b1dd7566785d": {
+      "ProjectGuid": "6fd54458-f93c-43be-84b0-b1dd7566785d",
+      "DisplayName": "CategorieEnfant",
+      "ColorIndex": 8
+    },
+    "767bbff2-28a9-4b97-92c8-6b6b0c074ffd": {
+      "ProjectGuid": "767bbff2-28a9-4b97-92c8-6b6b0c074ffd",
+      "DisplayName": "calculImpot",
+      "ColorIndex": 9
+    },
+    "96aaa595-9a31-47d6-a655-779d2e2f7130": {
+      "ProjectGuid": "96aaa595-9a31-47d6-a655-779d2e2f7130",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 10
+    },
+    "e8443bec-07ff-48b0-995c-701327c08d1c": {
+      "ProjectGuid": "e8443bec-07ff-48b0-995c-701327c08d1c",
+      "DisplayName": "while",
+      "ColorIndex": 11
+    },
+    "902236f3-6ca9-434b-a520-9b6ffbd90a4d": {
+      "ProjectGuid": "902236f3-6ca9-434b-a520-9b6ffbd90a4d",
+      "DisplayName": "CompterJusqua10",
+      "ColorIndex": 12
+    },
+    "60d0b12e-cdb2-42c7-b71d-26eb0eb1d523": {
+      "ProjectGuid": "60d0b12e-cdb2-42c7-b71d-26eb0eb1d523",
+      "DisplayName": "MenuEtSousMenu",
+      "ColorIndex": 13
+    },
+    "cdacf7cb-a5a8-4d68-9808-25377b3bcb6c": {
+      "ProjectGuid": "cdacf7cb-a5a8-4d68-9808-25377b3bcb6c",
+      "DisplayName": "tableDeMultipilcation",
+      "ColorIndex": 14
+    },
+    "e0266424-7522-41e6-b0a5-ebef2cda949f": {
+      "ProjectGuid": "e0266424-7522-41e6-b0a5-ebef2cda949f",
+      "DisplayName": "TableDeMultiplication",
+      "ColorIndex": 15
+    },
+    "0dd06f99-db1a-4324-ba92-8a7decc59624": {
+      "ProjectGuid": "0dd06f99-db1a-4324-ba92-8a7decc59624",
+      "DisplayName": "AccroismentDeLaPopulation",
+      "ColorIndex": 0
+    },
+    "b8af310e-5a03-4e7c-a0c4-b26b89bb0291": {
+      "ProjectGuid": "b8af310e-5a03-4e7c-a0c4-b26b89bb0291",
+      "DisplayName": "LeNombreMystere",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "62691895-0bcf-4545-827b-28953311460a": {
+      "ProjectGuid": "62691895-0bcf-4545-827b-28953311460a",
+      "DisplayName": "NombreMystere2",
+      "ColorIndex": 2
+    },
+    "657b9600-9fc8-4df4-9424-b37339a0a433": {
+      "ProjectGuid": "657b9600-9fc8-4df4-9424-b37339a0a433",
+      "DisplayName": "GestionDesNotes",
+      "ColorIndex": 3
+    },
+    "960fbc55-1f03-452a-b54a-c1fb853d0dc4": {
+      "ProjectGuid": "960fbc55-1f03-452a-b54a-c1fb853d0dc4",
+      "DisplayName": "LaTable",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

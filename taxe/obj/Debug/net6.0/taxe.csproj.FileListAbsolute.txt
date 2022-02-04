@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\obj\Debug\net6.0\taxe.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\obj\Debug\net6.0\taxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\obj\Debug\net6.0\taxe.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\obj\Debug\net6.0\taxe.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\obj\Debug\net6.0\taxe.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\bin\Debug\net6.0\taxe.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\bin\Debug\net6.0\taxe.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\bin\Debug\net6.0\taxe.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\bin\Debug\net6.0\taxe.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\bin\Debug\net6.0\ref\taxe.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\bin\Debug\net6.0\taxe.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\obj\Debug\net6.0\taxe.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\obj\Debug\net6.0\ref\taxe.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\obj\Debug\net6.0\taxe.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\taxe\obj\Debug\net6.0\taxe.genruntimeconfig.cache

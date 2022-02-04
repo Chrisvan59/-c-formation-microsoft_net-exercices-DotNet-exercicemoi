@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\bin\Debug\net6.0\affichage.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\bin\Debug\net6.0\affichage.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\bin\Debug\net6.0\affichage.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\bin\Debug\net6.0\affichage.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\bin\Debug\net6.0\ref\affichage.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\bin\Debug\net6.0\affichage.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\obj\Debug\net6.0\affichage.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\obj\Debug\net6.0\affichage.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\obj\Debug\net6.0\affichage.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\obj\Debug\net6.0\affichage.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\obj\Debug\net6.0\affichage.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\obj\Debug\net6.0\affichage.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\obj\Debug\net6.0\ref\affichage.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\obj\Debug\net6.0\affichage.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\affichage\obj\Debug\net6.0\affichage.genruntimeconfig.cache

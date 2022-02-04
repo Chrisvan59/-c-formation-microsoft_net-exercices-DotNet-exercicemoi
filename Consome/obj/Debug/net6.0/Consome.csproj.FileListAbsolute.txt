@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\obj\Debug\net6.0\Consome.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\obj\Debug\net6.0\Consome.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\obj\Debug\net6.0\Consome.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\obj\Debug\net6.0\Consome.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\obj\Debug\net6.0\Consome.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\bin\Debug\net6.0\Consome.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\bin\Debug\net6.0\Consome.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\bin\Debug\net6.0\Consome.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\bin\Debug\net6.0\Consome.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\bin\Debug\net6.0\ref\Consome.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\bin\Debug\net6.0\Consome.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\obj\Debug\net6.0\Consome.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\obj\Debug\net6.0\ref\Consome.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\obj\Debug\net6.0\Consome.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\Consome\obj\Debug\net6.0\Consome.genruntimeconfig.cache

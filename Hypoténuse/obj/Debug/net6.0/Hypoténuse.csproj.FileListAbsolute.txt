@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\bin\Debug\net6.0\Hypoténuse.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\bin\Debug\net6.0\Hypoténuse.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\bin\Debug\net6.0\Hypoténuse.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\bin\Debug\net6.0\Hypoténuse.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\bin\Debug\net6.0\ref\Hypoténuse.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\bin\Debug\net6.0\Hypoténuse.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\obj\Debug\net6.0\Hypoténuse.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\obj\Debug\net6.0\Hypoténuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\obj\Debug\net6.0\Hypoténuse.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\obj\Debug\net6.0\Hypoténuse.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\obj\Debug\net6.0\Hypoténuse.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\obj\Debug\net6.0\Hypoténuse.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\obj\Debug\net6.0\ref\Hypoténuse.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\obj\Debug\net6.0\Hypoténuse.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\Hypoténuse\obj\Debug\net6.0\Hypoténuse.genruntimeconfig.cache

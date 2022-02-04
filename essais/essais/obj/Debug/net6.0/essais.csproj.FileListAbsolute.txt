@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\bin\Debug\net6.0\essais.exe
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\bin\Debug\net6.0\essais.deps.json
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\bin\Debug\net6.0\essais.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\bin\Debug\net6.0\essais.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\bin\Debug\net6.0\ref\essais.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\bin\Debug\net6.0\essais.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\obj\Debug\net6.0\essais.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\obj\Debug\net6.0\essais.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\obj\Debug\net6.0\essais.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\obj\Debug\net6.0\essais.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\obj\Debug\net6.0\essais.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\obj\Debug\net6.0\essais.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\obj\Debug\net6.0\ref\essais.dll
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\obj\Debug\net6.0\essais.pdb
+C:\formation microsoft_net\exercices\DotNet\affichage\essais\essais\obj\Debug\net6.0\essais.genruntimeconfig.cache

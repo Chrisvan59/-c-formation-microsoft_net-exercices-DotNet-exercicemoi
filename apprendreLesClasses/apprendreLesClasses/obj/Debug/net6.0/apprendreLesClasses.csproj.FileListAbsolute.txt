@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\obj\Debug\net6.0\apprendreLesClasses.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\obj\Debug\net6.0\apprendreLesClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\obj\Debug\net6.0\apprendreLesClasses.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\obj\Debug\net6.0\apprendreLesClasses.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\obj\Debug\net6.0\apprendreLesClasses.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\bin\Debug\net6.0\apprendreLesClasses.exe
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\bin\Debug\net6.0\apprendreLesClasses.deps.json
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\bin\Debug\net6.0\apprendreLesClasses.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\bin\Debug\net6.0\apprendreLesClasses.dll
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\bin\Debug\net6.0\ref\apprendreLesClasses.dll
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\bin\Debug\net6.0\apprendreLesClasses.pdb
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\obj\Debug\net6.0\apprendreLesClasses.dll
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\obj\Debug\net6.0\ref\apprendreLesClasses.dll
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\obj\Debug\net6.0\apprendreLesClasses.pdb
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\apprendreLesClasses\apprendreLesClasses\obj\Debug\net6.0\apprendreLesClasses.genruntimeconfig.cache
