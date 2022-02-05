@@ -27,14 +27,14 @@ namespace LePendu
             {
                 Affichage();
                 Console.WriteLine("veuillez saisir une lettre: ");
-                char c = Convert.ToChar(Console.ReadLine);
+                char c = Convert.ToChar(Console.ReadLine());
                 if (pendu.TestChar(c))
                 {
                     Console.WriteLine("Bravo vous avez trouvé un caractère dans le mot");
                 }
                 else
                 {
-                    Console.WriteLine($"Le caractère n'existe pas, il vous reste :");
+                    Console.WriteLine($"Le caractère n'existe pas, il vous reste :{ pendu.NbEssai}");
                 }
             } while (pendu.NbEssai > 0 && !pendu.TestWin());
 

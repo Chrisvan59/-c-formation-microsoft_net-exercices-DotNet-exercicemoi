@@ -1,0 +1,15 @@
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\bin\Debug\net6.0\classeSalarie.exe
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\bin\Debug\net6.0\classeSalarie.deps.json
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\bin\Debug\net6.0\classeSalarie.runtimeconfig.json
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\bin\Debug\net6.0\classeSalarie.dll
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\bin\Debug\net6.0\ref\classeSalarie.dll
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\bin\Debug\net6.0\classeSalarie.pdb
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\obj\Debug\net6.0\classeSalarie.csproj.AssemblyReference.cache
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\obj\Debug\net6.0\classeSalarie.GeneratedMSBuildEditorConfig.editorconfig
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\obj\Debug\net6.0\classeSalarie.AssemblyInfoInputs.cache
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\obj\Debug\net6.0\classeSalarie.AssemblyInfo.cs
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\obj\Debug\net6.0\classeSalarie.csproj.CoreCompileInputs.cache
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\obj\Debug\net6.0\classeSalarie.dll
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\obj\Debug\net6.0\ref\classeSalarie.dll
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\obj\Debug\net6.0\classeSalarie.pdb
+C:\formation microsoft_net\exercices\DotNet\exercicemoi\classeSalarie\classeSalarie\obj\Debug\net6.0\classeSalarie.genruntimeconfig.cache

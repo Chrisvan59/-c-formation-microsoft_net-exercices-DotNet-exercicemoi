@@ -58,6 +58,7 @@ namespace LePendu
 
             public void GenereMasque(GenerateurDeMot generateur)
         {
+            motATrouver = generateur.generer();
             masque = "";
             for (int i=0; i < MotATrouver.Length; i++)
             {
